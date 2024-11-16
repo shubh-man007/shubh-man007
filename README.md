@@ -44,7 +44,7 @@
 
 <!-- Interests Section -->  
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<img src="images/guestbook.svg">
 </div>
 
 <table align="center" style="width: 100%; border-spacing: 20px; text-align: center;">
@@ -59,7 +59,7 @@
         <tr>
             <td><b>Evaluating and Optimizing LLMs</b></td>
             <td><b>Mechanistic Interpretability</b></td>
-            <td><b>Controllable and Accessible models</b></td>
+            <td><b>Controllable/Accessible models</b></td>
         </tr>
     </tbody>
 </table>
