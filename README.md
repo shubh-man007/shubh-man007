@@ -15,7 +15,7 @@
 <tr>
 <td align="center">
 <a href="https://shubh-man007.github.io/mebew/">
-<strong>Visit my personal website </strong>
+<strong>Visit my website  </strong>
 <br />
 <br />
 <br />
