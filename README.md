@@ -40,17 +40,29 @@
 </tr>
 </table>
 
+<br />
 
-<div align="left" style="background-color: #000080; color: #00FF00; padding: 20px; border: 3px solid #FFD700; text-align: left;">
-  <!-- Interests Section -->
-  <h2 style="color: #FFD700; text-shadow: 2px 2px 5px #FF4500;">🌟 My Interests</h2>                                   
-  <ul>                                                                                                                 
-    <li>🎮 <font color="#00FF00">Evaluating and Optimizing LLMs</font></li>                                        
-    <li>🛠️ <font color="#00FF00">Mechanistic Interpretability</font></li>
-    <li>🌐 <font color="#00FF00">Making models more controllable and accessible</font></li>
-  </ul>
+<!-- Interests Section -->  
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
+<table align="center" style="width: 100%; border-spacing: 20px; text-align: center;">
+    <thead>
+        <tr>
+            <th>🎮</th>
+            <th>🛠️</th>
+            <th>🌐</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Evaluating and Optimizing LLMs</b></td>
+            <td><b>Mechanistic Interpretability</b></td>
+            <td><b>Controllable and Accessible models</b></td>
+        </tr>
+    </tbody>
+</table>
 
 
 
