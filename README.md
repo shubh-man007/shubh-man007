@@ -41,15 +41,17 @@
 </table>
 
 
-<!--Interests-->
-<div align="center">
+<div align="left" style="background-color: #000080; color: #00FF00; padding: 20px; border: 3px solid #FFD700; text-align: left;">
   <!-- Interests Section -->
-  <h2>🌟 My Interests</h2>
-  <p align="center" style="max-width: 600px;">
-    I'm currently exploring ways to evaluate and optimize LLMs for more efficient and robust performance. I'm passionate about <strong>interpretability</strong> and developing novel methods to enhance the <strong>controllability</strong> and <strong>accessibility</strong> of models, making them not only powerful but also more transparent and user-friendly.
-  </p>
-  <br />
+  <h2 style="color: #FFD700; text-shadow: 2px 2px 5px #FF4500;">🌟 My Interests</h2>                                   
+  <ul>                                                                                                                 
+    <li>🎮 <font color="#00FF00">Evaluating and Optimizing LLMs</font></li>                                        
+    <li>🛠️ <font color="#00FF00">Mechanistic Interpretability</font></li>
+    <li>🌐 <font color="#00FF00">Making models more controllable and accessible</font></li>
+  </ul>
 </div>
+
+
 
 
 <!--Footer-->
